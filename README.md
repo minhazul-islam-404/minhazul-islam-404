@@ -1,5 +1,5 @@
 # Hi there, I'm Minhazul Islam Fahim 👋
-### **AI & Systems Infrastructure Engineer | Aerospace Research & Systems Developer**
+### **AI & Systems Infrastructure Engineer & Aerospace Research**
 
 ---
 
