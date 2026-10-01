@@ -1,4 +1,7 @@
 # Hi there, I'm Minhazul Islam Fahim 👋
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGlmMwsR5cjMw/profile-displaybackgroundimage-shrink_350_1400/B56aD2H6PdGoAc-/0/1790835664117?e=1792627200&v=beta&t=x4FqITO4mxNd8qXiyRRW7sdX81r8C4SBPUGxT8WV-Ek" alt="Minhazul Islam Fahim Banner" width="100%" style="border-radius: 8px;">
+</p>
 ### **AI & Systems Infrastructure Engineer & Aerospace Research**
 
 ---
