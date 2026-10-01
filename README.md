@@ -1,40 +1,43 @@
-# Hi there, I'm Minhazul Islam Fahim 👋
+<!-- Banner Image -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGlmMwsR5cjMw/profile-displaybackgroundimage-shrink_350_1400/B56aD2H6PdGoAc-/0/1790835664117?e=1792627200&v=beta&t=x4FqITO4mxNd8qXiyRRW7sdX81r8C4SBPUGxT8WV-Ek" alt="Minhazul Islam Fahim Banner" width="100%" style="border-radius: 8px;">
 </p>
-### **AI & Systems Infrastructure Engineer & Aerospace Research**
+
+# Hi there, I'm Minhazul Islam Fahim 👋
+
+### **AI & Systems Infrastructure Engineer | Aerospace Research**
 
 ---
 
 ### 💫 About Me
-- 🔭 **Current Focus:** AI Systems Development, Aerospace Research, and Energy Solutions[cite: 3].
-- 🚀 **Specializations:** Systems & Embedded Software, RTOS, Thermal & Energy Systems in Aerospace, hardware-software co-design[cite: 2].
-- 🎓 **Education:** Chittagong Polytechnic Institute & Remote Programs (University of Stuttgart, Technical University of Munich)[cite: 2, 3].
-- 📍 **Location:** Feni District, Chattogram, Bangladesh[cite: 3].
-- 📫 **Contact:** [minhazulislamfahim10@gmail.com](mailto:minhazulislamfahim10@gmail.com)[cite: 1]
+- 🔭 **Current Focus:** AI Systems Development, Aerospace Research, and Energy Solutions.
+- 🚀 **Specializations:** Systems & Embedded Software, RTOS, Thermal & Energy Systems in Aerospace, hardware-software co-design.
+- 🎓 **Education:** Chittagong Polytechnic Institute & Remote Programs (University of Stuttgart, Technical University of Munich).
+- 📍 **Location:** Feni District, Chattogram, Bangladesh.
+- 📫 **Contact:** [minhazulislamfahim10@gmail.com](mailto:minhazulislamfahim10@gmail.com)
 
 ---
 
 ### 💼 Experience & Research
-- 🔬 **Institute of Aerospace Thermodynamics (University of Stuttgart)** — *Seasonal Aerospace Researcher*[cite: 2]
-  - Thermal and energy systems in aerospace, advanced combustion in rocket/jet engines, and CFD simulations[cite: 2].
-- ⚡ **Systems & Embedded Software Specialist (Technical University of Munich)** — *Contract Specialist*[cite: 2]
-  - Hardware-software co-design, Real-Time Operating Systems (RTOS), and high-performance systems engineering[cite: 2].
-- 💻 **Fixion Core** — *Junior Software Engineer (AI Research & Embedded Systems)*[cite: 2]
-  - AI Research, embedded systems integration, and fundamental hardware-software interaction[cite: 2].
+- 🔬 **Institute of Aerospace Thermodynamics (University of Stuttgart)** — *Seasonal Aerospace Researcher*
+  - Thermal and energy systems in aerospace, advanced combustion in rocket/jet engines, and CFD simulations.
+- ⚡ **Systems & Embedded Software Specialist (Technical University of Munich)** — *Contract Specialist*
+  - Hardware-software co-design, Real-Time Operating Systems (RTOS), and high-performance systems engineering.
+- 💻 **Fixion Core** — *Junior Software Engineer (AI Research & Embedded Systems)*
+  - AI Research, embedded systems integration, and fundamental hardware-software interaction.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### **Languages & Core Technologies**
+#### Languages & Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### **Systems, AI & Aerospace**
+#### Systems, AI & Aerospace
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge)
 ![RTOS](https://img.shields.io/badge/RTOS-02569B?style=for-the-badge)
 ![CFD Simulation](https://img.shields.io/badge/CFD_Simulations-FF6F00?style=for-the-badge)
